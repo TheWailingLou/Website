@@ -1,0 +1,4 @@
+~/'Computer Science'/'Learning Git'/repos/website/.gitignore
+.DS_Store
+*~
+tmp/
